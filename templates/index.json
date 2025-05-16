@@ -15,10 +15,17 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Browse our latest products",
+            "heading": "Welcome to my Store",
             "heading_size": "h0"
           }
         },
+        "text": {
+    "type": "text",
+    "settings": {
+      "text": "Discover unique finds and exclusive offers in our collection.",
+      "text_style": "body"
+         }
+       },
         "button": {
           "type": "buttons",
           "settings": {
@@ -33,6 +40,7 @@
       },
       "block_order": [
         "heading",
+        "text",
         "button"
       ],
       "settings": {
